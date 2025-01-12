@@ -1,1 +1,1 @@
-Welcome to the docker first projects
+Welcome to the docker first project
